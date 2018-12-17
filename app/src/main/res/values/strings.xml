@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_name">Please enter your name:</string>
+    <string name="start">Start</string>
+    <string name="one_app_one_game_made_by_aaron_mapouna_for_android_exam_on_3rd_december">One app, one game, made by
+        Aaron Mapouna for android exam on 17th Dec, 2018.
+    </string>
+    <string name="made_at">Made at</string>
+    <string name="player_turn">Player turn:</string>
+    <string name="player1">X (Guest)</string>
+    <string name="player2">O (John Doe)</string>
+    <string name="n">.</string>
+</resources>
